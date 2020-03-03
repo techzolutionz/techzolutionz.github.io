@@ -7,3 +7,5 @@ A WiFi Network is a wireless network that connects to your Internet router and w
 A wireless router is a device that performs the functions of a router and also includes the functions of a wireless access point. It is used to provide access to the Internet or a private computer network.
 
 [Home Page](https://techzolutionz.github.io/techzolutionz.github.io/)
+
+[BIO](https://techzolutionz.github.io/techzolutionz.github.io/bio)
