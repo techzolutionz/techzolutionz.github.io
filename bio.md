@@ -1,5 +1,5 @@
 # Dexter Williams
-Hello everyone. My name is Dexer Williams and I was born and raised in Houston, Texas. I currently serve in the United States Navy in Iwakuni, Japan. I'am an Aviation Maintenance Administrationman (aka. PAPERPUSHER). I have about 4 years experience as a SA/DBA and been have been in the Navy going on 8 years. Below is a list of my Naval experiences and job details.
+Hello everyone. My name is Dexer Williams and I was born and raised in [Houston, Texas](https://en.wikipedia.org/wiki/Houston). I currently serve in the United States Navy in [Iwakuni, Japan](https://en.wikipedia.org/wiki/Iwakuni). I'am an [Aviation Maintenance Administrationman](https://www.public.navy.mil/bupers-npc/enlisted/community/aviation/Pages/AZ.aspx)(aka. PAPERPUSHER). I have about 4 years experience as a SA/DBA and have been in the Navy going on 8 years. Below is a list of my Naval experiences and job details.
 + Aircraft Logs & Records
 + Maintenance Admin
 + System Administrator
