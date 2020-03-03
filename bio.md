@@ -5,7 +5,7 @@ Hello everyone. My name is Dexer Williams and I was born and raised in Houston, 
 + System Administrator
 + Database Administrator
 + Built a Virtual Machine
-+ Built profiles for Personell, Aircraft, Support Equipment, plus more
++ Built profiles for Personnel, Aircraft, Support Equipment, plus more
 + Maintain Server
 
 
