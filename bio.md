@@ -1,4 +1,4 @@
 # BIO
 
 
-[WiFi Networking Home](techzolutionz.github.io)
+[WiFi Networking Home](https://techzolutionz.github.io/techzolutionz.github.io)
