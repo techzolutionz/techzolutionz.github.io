@@ -15,4 +15,5 @@ Hello everyone. My name is Dexer Williams and I was born and raised in [Houston,
 ![Server](https://www.itinstock.com/ekmps/shops/itinstock/images/HP-ProLiant-ML350-G4-470062-994-Tower-Server-XEON-2x-3.00GHz-2Gb-RAM-5x-36Gb-[2]-8819-p.jpg)
 
 [Home Page](https://techzolutionz.github.io/techzolutionz.github.io/)
+
 [Wifi Networking](https://techzolutionz.github.io/techzolutionz.github.io/topic)
