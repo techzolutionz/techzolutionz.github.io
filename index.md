@@ -1,6 +1,6 @@
 # TechZolutionz
-![tz](b74c54df-3368-4e66-a846-43a4cf60dee7_200x200.png)
 
+![tz](https://futureinsight.org/wp-content/uploads/2020/01/information-technology-advances-nmjnq8z4pmcif5mnbtgrkmi63nyzzezi8xdhccnuz4.jpg)
 
 
 [BIO](https://techzolutionz.github.io/techzolutionz.github.io/bio)
