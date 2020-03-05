@@ -1,7 +1,8 @@
 # Wifi Networking
 ---
 A WiFi Network is a wireless network that connects to your Internet router and wireless-enabled devices (such as laptops, smartphones and printers) in your home, work space, or general area using a wireless radio signal. Your laptop/tablet/etc. uses a wireless adapter to translate data into a radio signal and transmit that signal using an antenna. Those radio waves emanate outwards from the antenna and are received by your wireless router. That wireless router then converts the radio waves back into data and then sends that data to the Internet using a physical connection. 
-Wi-Fi technology may be used to provide local network and Internet access to devices that are within Wi-Fi range of one or more routers that are connected to the Internet. The coverage of one or more interconnected access points (hotspots) can extend from an area as small as a few rooms to as large as many square kilometres. Coverage in the larger area may require a group of access points with overlapping coverage. 
+Wi-Fi technology may be used to provide local network and Internet access to devices that are within Wi-Fi range of one or more routers that are connected to the Internet. The coverage of one or more interconnected access points (hotspots) can extend from an area as small as a few rooms to as large as many square kilometres. Coverage in the larger area may require a group of access points with overlapping coverage.
+Wi-Fi is a pun on the word hi-fi (high fidelity), a term for high-quality audio technology. The name Wi-Fi has no further meaning, and was never officially a shortened form of "Wireless Fidelity".
 + Introduced	September 21, 1998
 + Wi‑Fi 1 (802.11b) / 1 to 11 Mbit/s (1999)
 + Wi‑Fi 2 (802.11a) / 1.5 to 54 Mbit/s (1999)
